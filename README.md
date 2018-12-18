@@ -22,3 +22,7 @@ How simple it is,
  
  run calc.py using 
  `python calc.py`
+
+# UI:
+
+![calc](https://user-images.githubusercontent.com/8089528/50153952-f0aec100-02ed-11e9-8f61-3c14a5ea897b.png)
